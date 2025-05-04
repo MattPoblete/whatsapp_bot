@@ -1,6 +1,7 @@
 {
   "name": "whatsapp_bot",
   "version": "1.0.0",
+  "type": "module",
   "description": "Demo project of a whatsapp bot with google api access",
   "main": "index.js",
   "scripts": {
